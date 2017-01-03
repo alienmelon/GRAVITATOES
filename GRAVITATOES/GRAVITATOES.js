@@ -6,7 +6,6 @@ var arr_sndtato = ["AUD_PLOP01", "AUD_PLOP02", "AUD_PLOP03", "AUD_PLOP04", "AUD_
 
 //all potatoes for easy removal
 var arr_alltatoes = [];
-var arr_inttatoes = [];//references to all ints
 
 //preffered potato sound format (either .wav or .mp3 audio is provided)
 var arr_soundformatato = ".mp3";
